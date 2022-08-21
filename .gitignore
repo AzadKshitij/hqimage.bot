@@ -24,6 +24,8 @@ photos/*.ai
 photos/*.eps
 photos/*.indd
 
+hosting/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
