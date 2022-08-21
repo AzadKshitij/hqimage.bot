@@ -1,0 +1,5 @@
+TOKEN=
+GET_FILE=https://api.telegram.org/bot{}/getFile?file_id={}
+FILE_PATH=https://api.telegram.org/file/bot{}/{}
+MODEL_FILE=models/srcnn_x2.pth
+SAVE_PATH=saved/{}
